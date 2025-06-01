@@ -14,7 +14,8 @@ echo Setting branch to main...
 git branch -M main
 
 echo Adding remote origin...
-git remote add origin https://github.com/garimamishra4/my-react-project
+git remote add origin "
+https://github.com/garimamishra4/my-react-project"
 echo Pushing to GitHub...
 git push -u origin main
 
